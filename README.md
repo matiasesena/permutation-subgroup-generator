@@ -17,9 +17,9 @@ You will be asked to insert an N (Length of the group you want) and the permutat
 ## Authors
 * Matias Ezequiel Sena
 
-## Links
+## Relevant links
 For more information about permutation groups, you can visit the following websites:
 * [Wikipedia - Permutation group](https://en.wikipedia.org/wiki/Permutation_group)
 * [UGR - El grupo Simetrico.](https://www.ugr.es/~jurbano/aed/AED-Tema_2-Grupos.Grupo_simetrico.pdf)
-* [Dpto. Construcciones - El grupo alternado] (http://www.departamento.us.es/da/planantiguo/notas-ant/algebra/t11.pdf)
+* [Dpto. Construcciones - El grupo alternado](http://www.departamento.us.es/da/planantiguo/notas-ant/algebra/t11.pdf)
 
