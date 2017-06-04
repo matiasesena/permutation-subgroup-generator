@@ -14,6 +14,29 @@ python generate_subgroup.py
 ```
 You will be asked to insert an N (Length of the group you want) and the permutation P you want to use as generator.
 
+### Usage example
+Input
+```
+Enter the LENGTH of the Group of Permutations. - e.g. N = 5
+N = 5
+
+Enter the GENERATOR you want to use to calculate the subgroup - e.g. P = 31254
+1-> 3
+2-> 1
+3-> 2
+4-> 5
+5-> 4
+```
+Output
+```
+P^1 = (132)(45)
+P^2 = (123)(4)(5)
+P^3 = (1)(2)(3)(45)
+P^4 = (132)(4)(5)
+P^5 = (123)(45)
+P^6 = (1)(2)(3)(4)(5)
+```
+
 ## Authors
 * Matias Ezequiel Sena
 
